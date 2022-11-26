@@ -1,5 +1,7 @@
 An open-source Roblox framework.
 
-This framework itself only is a simple
-language with some functions to create commands,
-but it includes some packages.
+This framework is made up with multiple packages
+that can be used in Roblox Studio.
+
+To use Hex, you need Rojo/Argon and a package
+manager.
