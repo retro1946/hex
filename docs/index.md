@@ -9,7 +9,7 @@ guide to use hex.
        - Getting an editor
        - Sync your editor to Roblox
           - Rojo
-          - Roblox-bridge
+          - studio-bridge
           - Argon
 - Installation
 - Installing a package
