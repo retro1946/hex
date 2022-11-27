@@ -1,4 +1,4 @@
-# Documentation - hex
+# Documentation
 
 Welcome to the documentation. This is a simple
 guide to use hex.
