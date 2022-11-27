@@ -6,3 +6,5 @@ To use Hex, you need a tool like Rojo or Studio-bridge and a package
 manager.
 
 More info in the docs.
+
+[Docs](docs/) • Install
